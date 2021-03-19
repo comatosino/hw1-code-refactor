@@ -21,11 +21,6 @@ h1 {
     font-size: 48px;
 }
 
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -63,8 +58,11 @@ footer {
     text-align: center;
     padding: 30px;
 }
+footer h2 {
+    font-size: 20px;
+}
 
-/* .seo handles  */
+/* classes  */
 .seo {
     color: #d9dcd6;
 }
@@ -79,6 +77,11 @@ footer {
     color: #ffffff;
     width: 75%;
     margin-left: 20px
+}
+
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .content-box {
@@ -117,21 +120,17 @@ footer {
     margin-bottom: 32px;
 }
 
-.benefit-icon {
+.benefit-graphic {
     max-width: 150px;
     display: block;
     margin: 10px auto;
 }
 
 /* ids */
-#meeting {
+#meeting-photo {
     width: 100%;
     height: 100%;
     object-fit: cover;
-}
-
-#made-with {
-    font-size: 20px;
 }
 
 
