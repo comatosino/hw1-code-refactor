@@ -30,6 +30,7 @@ p {
     font-size: 16px;
 }
 
+/* navigational links */
 nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
@@ -62,16 +63,19 @@ footer h2 {
     font-size: 20px;
 }
 
-/* classes  */
+/* classes */
+
+/* different coloration to accentuate SEO acronym in header h1 */
 .seo {
     color: #d9dcd6;
 }
 
+/* section for big meeting photo */
 .hero {
     height: 800px;
     margin-bottom: 25px;
 }
-
+ /* main section */
 .content {
     display: inline-block;
     color: #ffffff;
@@ -104,6 +108,7 @@ footer h2 {
     margin-left: 25px;
 }
 
+/* sidebar */
 .benefits {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color:#ffffff;
