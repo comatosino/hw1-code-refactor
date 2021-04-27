@@ -4,31 +4,23 @@
 
 ## Description
 
-This project presents an opportunity to practice working with fundamental HTML and CSS concepts by refactoring existing code. Adding semantic elements and alternate text improves accessibility and search engine optimization. Refactoring the style sheet into a more logical structure improves readability and ease of modification. This also provided hands-on insight into CSS selectors and inheritance.
+This project presented an opportunity to practice working with fundamental HTML and CSS concepts by refactoring existing code. Adding semantic elements and alternate text improves accessibility and search engine optimization. Refactoring the style sheet into a more logical structure improves readability and ease of modification. This also provided hands-on insight into CSS selectors and inheritance.
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
+- [Installation](#Installation)
+- [Usage](#Usage)
 - [Contributing](#Contributing)
 - [Testing](#Testing)
 - [Questions](#Questions)
 - [Acknowledgements](#Acknowledgements)
 - [License](#License)
 
-## Installation
-
-None
-
 ## Usage
 
 Click on the screenshot to launch the application!
 
 [![screenshot](./assets/images/webapp-screenshot.jpg)](https://comatosino.github.io/hw1-code-refactor/)
-
-## Tests
-
-None
 
 ## Questions
 
