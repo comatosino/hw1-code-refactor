@@ -8,10 +8,7 @@ This project presented an opportunity to practice working with fundamental HTML 
 
 ## Table of Contents
 
-- [Installation](#Installation)
 - [Usage](#Usage)
-- [Contributing](#Contributing)
-- [Testing](#Testing)
 - [Questions](#Questions)
 - [Acknowledgements](#Acknowledgements)
 - [License](#License)
